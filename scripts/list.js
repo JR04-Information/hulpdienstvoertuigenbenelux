@@ -93,6 +93,7 @@ const BEDropdown = {
         { value: "Luik", text: "Luik" },
         { value: "Luxemburg", text: "Luxemburg" },
         { value: "Waals-Brabant", text: "Waals-Brabant" },
+        { value: "Namen", text: "Namen"},
     ]
 };
 
